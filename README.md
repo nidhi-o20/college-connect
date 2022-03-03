@@ -21,13 +21,17 @@ recommending colleges and books to students. The key concept is to
 help students throughout their engineering career, not only to get
 admission into desired colleges which are best for them but also by
 recommending them books for their curriculum, on the basis of their
-preferred pace of learning. This system consists of a home page
-where user can proceed with one of the two choices :
+preferred pace of learning.<br> 
+
+This system consists of a home page
+where user can proceed with one of the two choices :<br>
+
     1. <b>College recommendation</b> for recommending desired colleges based
     on user’s percentile. If the users are unsure they can attempt an
     aptitude test to learn which branch is best suitable for them or if they
     are sure about the branch, they can directly proceed with college
     recommendation.
+
     2. <b>Other features</b> consist of a book recommendation option which
     recommends books to the user on the basis of the user's pace of
     learning and level of understanding.
@@ -51,8 +55,8 @@ saying “Mail me all my branch files” to obtain all the files in the mail.
 
 ## DEVELOPERS:
 
-Nidhi Thakkar
-Sakshi Kharche
+Nidhi Thakkar <br>
+Sakshi Kharche <br>
 Vaibhavi Jadhav
 
 ## TECHNOLOGIES USED:
