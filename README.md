@@ -15,6 +15,8 @@ book on the basis of the score and pace of learning.
 
 This application was created as a Mini Project in Python for Semester-4 IT of MU.
 
+#### To run the system use: python crs_user.py
+
 ## Modules:
 College Connect is a desktop application which is used for
 recommending colleges and books to students. The key concept is to
