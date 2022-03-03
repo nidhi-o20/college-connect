@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. Which is not a selenium component?",
+    "Q2. Who doesnt support programming?",
+    "Q3. By which browser selenium ide is supported",
+    "Q4. which method closes the open browser In webdriver ?"
+  ],
+  "answer": [
+    1,
+    4,
+    4,
+    3
+  ],
+  "options": [
+
+    ["Maven",
+      "Selenium IDE",
+      "Selenium Grid",
+      "WebDriver"
+    ],
+    ["Selenium WebDriver",
+      "Selenium Grid",
+      "Selenium RC",
+      "Selenium IDE"
+    ],
+    ["Safari",
+      "Internet Explorer",
+      "Google Chrome",
+      "Mozilla Firefox"
+    ],
+    ["quit()",
+      "terminate()",
+      "close()",
+      "shutdown()"
+    ]
+  ]
+}

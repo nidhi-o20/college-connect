@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1.What is a django app?",
+    "Q2. Which architectural pattern does django follow?",
+    "Q3. What are migrations in django",
+    "Q4. Which of the following is a valid forloop attributes of Django Template System?"
+  ],
+  "answer": [
+    3,
+    2,
+    4,
+    3
+  ],
+  "options": [
+
+    ["Django app is an extended package with base package is Django",
+      "Django app is a python package with its own components.",
+      "Both 1 & 2 Option",
+      "None"
+    ],
+    [" PHP",
+      "MVT",
+      "HTML",
+      "None of the above"
+    ],
+    ["They are files saved in migrations directory.",
+      "They are created when you run makemigrations command.",
+      "Migrations are files where Django stores changes to your models.",
+      "All of the above"
+    ],
+    ["forloop.reverse",
+      "forloop.firstitem",
+      "forloop.counter0",
+      "forloop.lastitem"
+    ]
+  ]
+}

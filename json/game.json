@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. What library must be imported to use Pygame?",
+    "Q2. In the command pygame.Rect(10,20,30,40), 30 refers to:",
+    "Q3. The programming paradigm often used by graphics applications where it responds to events is called:",
+    "Q4.  In Pygame, what is drawn on is considered a(n):"
+  ],
+  "answer": [
+    4,
+    4,
+    4,
+    4
+  ],
+  "options": [
+
+    ["A. Graphics",
+      "B. Python",
+      "C. Games",
+      "D. Pygame"
+    ],
+    ["A. The width of the rectangle",
+      "B. The height of the rectangle",
+      "C. The y coordinate at the end of the rectangle",
+      "D. The x coordinate at the end of the rectangle"
+    ],
+    ["A. Sequencing",
+      "B. Waiting",
+      "C. Triggering",
+      "D. Event Handling"
+    ],
+    ["A. Image",
+      "B. Screen",
+      "C. Surface",
+      "D. Graphic"
+    ]
+  ]
+}

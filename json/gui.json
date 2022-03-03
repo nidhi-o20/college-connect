@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. Config() in Python Tkinter are used for ",
+    "Q2. Essential thing to create a window screen using tkinter python?",
+    "Q3. For user Entry data, which widget we use in tkinter ?",
+    "Q4. title() is used for "
+  ],
+  "answer": [
+    3,
+    1,
+    2,
+    1
+  ],
+  "options": [
+
+    ["destroy the widget",
+      "place the widget",
+      "change property of the widget",
+      "configure the widget"
+    ],
+    [".call tk() function",
+      ".create a button",
+      "To define a geometry",
+      ".All of the above"
+    ],
+    ["Text",
+      "Text",
+      "Both of the above",
+      "None of the above"
+    ],
+    ["give a title name to the window",
+      "give a title name to the Button",
+      "give a title name to the Widet",
+      "None of the above"
+    ]
+  ]
+}

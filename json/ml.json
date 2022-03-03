@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. Which of the following is a widely used and effective machine learning algorithm based on the idea of bagging?",
+    "Q2. To find the minimum or the maximum of a function, we set the gradient to zero because:",
+    "Q3. The most widely used metrics and tools to assess a classification model are:",
+    "Q4. Which of the following is a good test dataset characteristic?"
+  ],
+  "answer": [
+    4,
+    1,
+    4,
+    3
+  ],
+  "options": [
+
+    ["Decision Tree",
+      "Regression",
+      "Classification",
+      "Random Forest"
+    ],
+    ["The value of the gradient at extrema of a function is always zero",
+      "Depends on the type of problem",
+      "Both A and B",
+      "None of the above"
+    ],
+    ["Confusion matrix",
+      "Cost-sensitive accuracy",
+      "Area under the ROC curve",
+      "All of the above"
+    ],
+    ["Large enough to yield meaningful results",
+      "Is representative of the dataset as a whole",
+      "Both A and B ",
+      "None of the above"
+    ]
+  ]
+}
