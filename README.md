@@ -24,7 +24,7 @@ recommending them books for their curriculum, on the basis of their
 preferred pace of learning.<br> 
 
 This system consists of a home page
-where user can proceed with one of the two choices : </br>
+where user can proceed with one of the two choices : 
 
     1. **College recommendation** for recommending desired colleges based
     on user’s percentile. If the users are unsure they can attempt an
