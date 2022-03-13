@@ -26,13 +26,15 @@ recommending them books for their curriculum, on the basis of their
 preferred pace of learning.<br> 
 
 This system consists of a home page
-where user can proceed with one of the two choices : 
-    ####1.#### College recommendation for recommending desired colleges based
+where user can proceed with one of the two choices :
+
+    1. College recommendation for recommending desired colleges based
     on user’s percentile. If the users are unsure they can attempt an
     aptitude test to learn which branch is best suitable for them or if they
     are sure about the branch, they can directly proceed with college
     recommendation.
-    ####2.#### Other features consist of a book recommendation option which
+    
+    2. Other features consist of a book recommendation option which
     recommends books to the user on the basis of the user's pace of
     learning and level of understanding.
 
