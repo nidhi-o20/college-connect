@@ -27,33 +27,21 @@ preferred pace of learning.<br>
 
 This system consists of a home page
 where user can proceed with one of the two choices : 
-
     1. College recommendation for recommending desired colleges based
     on user’s percentile. If the users are unsure they can attempt an
     aptitude test to learn which branch is best suitable for them or if they
     are sure about the branch, they can directly proceed with college
     recommendation.
-
     2. Other features consist of a book recommendation option which
     recommends books to the user on the basis of the user's pace of
     learning and level of understanding.
 
-The aptitude test has questions based on real world scenarios to
-understand which branch the user is interested in, after giving the
-test, results of the test are displayed according to the user's response,
-in the form of a pie chart showing the distribution of branches which
-gives them a clear understanding of which branch is best suited
-according to their interest.
-The college recommendation system has all the branches from which
-a user can select one or more branches for which he wishes to obtain
-the college list based on his percentile.
-When a user hits the submit button, the system will display the
-college list which he can opt for. If a user selects multiple branches,
-the system will provide multiple lists of each branch according to his
-percentile.
-
-User can also provide his e-mail address and click the checkbox
-saying “Mail me all my branch files” to obtain all the files in the mail.
+#### Features
+1. The aptitude test has questions based on real world scenarios to understand which branch the user is interested in, after giving the test, results of the test are displayed according to the user's response, in the form of a pie chart showing the distribution of branches which gives them a clear understanding of which branch is best suited according to their interest.
+2. The college recommendation system has all the branches from which a user can select one or more branches for which he wishes to obtain the college list based on his percentile.
+3. When a user hits the submit button, the system will display the college list which he can opt for. If a user selects multiple branches, the system will provide multiple lists of each branch according to his percentile.
+4. User can get location based recommendation of colleges by selecting the cities and branches he is intrested in.
+5. User can provide e-mail address to recieve these files on his email address.
 
 ## DEVELOPERS:
 
